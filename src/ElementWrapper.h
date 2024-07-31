@@ -6,6 +6,7 @@ namespace cadwork::plugin
     {
     private:
         CwAPI3D::elementID id;
+        
         CwAPI3D::AttributeController* attributeController{nullptr};
 
     public:
